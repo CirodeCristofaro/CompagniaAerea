@@ -1,5 +1,7 @@
 # CompagniaAerea
 Si sviluppi un programma per la gestione delle prenotazioni di voli.Si richiede che un utente possa registrarsi all’avvio del sistema, o entrare come utente già registrato. In ogni caso, solo gli utenti registrati possono  prenotare  un nuovo  viaggio. Dopo l’accesso, l’utente può visualizzare le sue prenotazioni attive, ed effettuarne una nuova specificando:
+
+
 1.La città di partenza e la città di destinazione, e il sistema gli propone:
 •La tratta più economica
 •La tratta più breve
